@@ -39,7 +39,6 @@ void fragment() {
 	ALBEDO = line_color * intensity * brightness;
 	ALPHA *= intensity;
 
-
 	//if (mod(UV[0], 0.1) <= 0.1)
 	//{
 		//ALBEDO = vec3(1.0, 1.0, 1.0);

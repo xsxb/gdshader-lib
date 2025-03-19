@@ -7,7 +7,7 @@ uniform sampler2D noise;
 uniform sampler2D normalmap;
 uniform float mesh_size = 2.0;
 uniform float wave_speed = 3.0;
-uniform float height_adjust : hint_range(-2.0, 2.0) = 0.0;
+uniform float height_adjust : hint_range(-4.0, 4.0) = -1.0;
 
 uniform float height_scale : hint_range (0.0, 1.5)= 0.5;
 
