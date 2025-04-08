@@ -1,2 +1,2 @@
 # gdshader-lib
- A collection of shaders I wrote for the Godot game engine
+ My collection of shaders for the Godot game engine
